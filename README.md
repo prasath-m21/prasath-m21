@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hi%20I'm%20Prasath!&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Namaste%20%F0%9F%99%8F%20I'm%20Prasath!&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header"/>
 </p>
 
 <p align="center">
