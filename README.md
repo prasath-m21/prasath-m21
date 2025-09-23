@@ -9,7 +9,7 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasathm21)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasath-m21)
-  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your-username)
+  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://https://www.hackerrank.com/profile/mprasath0907)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mprasath0907@gmail.com)
   
 </div>
@@ -149,7 +149,7 @@ $ git commit -m "Adding awesome tools to my arsenal 🚀"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" align="right">
 
-#### 💼 Software Engineering Intern @ R&M India
+#### 💼 Intern @ R&M India
 *Sep 2024 - Feb 2025 | Bengaluru*
 
 ```python
@@ -169,18 +169,7 @@ for achievement in achievements:
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasath-m21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasath-m21&theme=tokyonight&hide_border=true&bg_color=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasath-m21&custom_title=Prasath's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true" width="100%"/>
-</div>
-
----
 
 ### 🏅 Achievements & Certifications
 
