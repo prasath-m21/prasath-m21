@@ -122,8 +122,8 @@ $ git commit -m "Adding awesome tools to my arsenal 🚀"
 
 <div align="center">
   
-> ### 💭 *"Even if there's 1% chance, we'll make it 100%"*
-> **- RCB, IPL 2024**
+> ### 💭 *"Even if there's 1% chance, that chance is good enough.*
+
 > 
 > This isn't just about cricket, it's about life and coding too! 🏏💻
 
